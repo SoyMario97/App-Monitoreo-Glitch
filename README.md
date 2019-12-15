@@ -1,7 +1,7 @@
-# Monitoreo de las aplicaciones glitch en uptimerobot.com
+# Monitoreo de las aplicaciones Glitch en UpTime Robot
 
 #### REGISTRO
-Ingrese a https://uptimerobot.com/index.php, registrarse e iniciar sección
+Ingrese a https://UpTimeRobot.com registrarse e iniciar sección
 <br/>
 <p align="center">
     <img src="https://i.imgur.com/t8gcFO8.png" alt="img">
@@ -34,5 +34,5 @@ Ingrese a https://uptimerobot.com/index.php, registrarse e iniciar sección
 
 #### SERVIDOR SOPORTE DISCORD
 <p align="center">
-  <a href="https://discord.gg/g6ssSmK"><img src="https://discordapp.com/api/guilds/312846399731662850/widget.png?style=banner2" alt="Discord server"></a>
+  <a href="https://Discord.GG/PHtPpup"><img src="https://discordapp.com/api/guilds/615179530247733268/widget.png?style=banner2" alt="Discord server"></a>
 </p>
