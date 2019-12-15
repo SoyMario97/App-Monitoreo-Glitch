@@ -1,7 +1,7 @@
 # Monitoreo de las aplicaciones Glitch en UpTime Robot
 
 #### REGISTRO
-Ingrese a https://UpTimeRobot.com registrarse e iniciar sección
+Ingrese a https://UpTimeRobot.com luego Registrate y Inicia Sesion
 <br/>
 <p align="center">
     <img src="https://i.imgur.com/t8gcFO8.png" alt="img">
