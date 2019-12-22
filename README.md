@@ -34,5 +34,5 @@ Ingrese a https://UpTimeRobot.com luego Registrate y Inicia Sesion
 
 #### SERVIDOR SOPORTE DISCORD
 <p align="center">
-  <a href="https://Discord.GG/PHtPpup"><img src="https://discordapp.com/api/guilds/615179530247733268/widget.png?style=banner2" alt="Discord server"></a>
+  <a href="https://discord.gg/yEe8PpZ"><img src="https://discordapp.com/api/guilds/615179530247733268/widget.png?style=banner2" alt="Discord server"></a>
 </p>
