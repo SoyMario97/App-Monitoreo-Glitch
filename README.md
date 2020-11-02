@@ -4,7 +4,7 @@
 Ingrese a https://UpTimeRobot.com luego Registrate y Inicia Sesion
 <br/>
 <p align="center">
-    <img src="https://i.imgur.com/t8gcFO8.png" alt="img">
+    <img src="https://photohub.glitch.me/image/1604339325884-62.PNG" alt="img">
 </p>
 <br/>
 
@@ -34,5 +34,5 @@ Ingrese a https://UpTimeRobot.com luego Registrate y Inicia Sesion
 
 #### SERVIDOR SOPORTE DISCORD
 <p align="center">
-  <a href="https://Discord.GG/yEe8PpZ"><img src="https://discordapp.com/api/guilds/615179530247733268/widget.png?style=banner2" alt="Servidor de Discord"></a>
+  <a href="https://Discord.MarioDev.XYZ"><img src="https://discord.com/api/guilds/615179530247733268/widget.png?style=banner2" alt="Servidor de Discord"></a>
 </p>
